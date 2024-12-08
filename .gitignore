@@ -1,0 +1,5 @@
+# Katalog z zależnościami Node.js
+node_modules/
+
+# Raporty z testów Playwright (jeśli generowane)
+report/
