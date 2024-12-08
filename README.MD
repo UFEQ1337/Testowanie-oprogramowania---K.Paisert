@@ -8,9 +8,6 @@
    - [Techniki testowe i ich znaczenie](#techniki-testowe-i-ich-znaczenie)
    - [Zakres testów](#zakres-testów)
    - [Środowisko testowe i dane testowe](#środowisko-testowe-i-dane-testowe)
-   - [Potencjalne zagrożenia](#potencjalne-zagrożenia)
-   - [Ramowy harmonogram testów](#ramowy-harmonogram-testów)
-   - [Skład zespołu i odpowiedzialności](#skład-zespołu-i-odpowiedzialności)
 3. [Techniki testowe - Implementacja](#techniki-testowe---implementacja)
 4. [Metryki](#metryki)
 5. [Raport z procesu testowego](#raport-z-procesu-testowego)
@@ -62,22 +59,6 @@ Celem projektu jest automatyzacja testów wybranych funkcjonalności dostępnych
   - Logowanie niepoprawne: `invalid_user / wrong_password`
   - Puste pola: brak wprowadzonych danych
   - Produkty: używamy dostępnych produktów na stronie, np. „Sauce Labs Backpack”.
-
-### Potencjalne zagrożenia
-
-1. Zmiany w interfejsie strony (np. zmiana selektorów), utrudniające utrzymanie testów automatycznych.
-2. Spadek wydajności lub opóźnienia w ładowaniu strony, wpływające na stabilność testów.
-
-### Ramowy harmonogram testów
-
-- **Tydzień 1**: Przygotowanie środowiska, implementacja testów logowania (testy wartości brzegowych, ścieżki krytyczne).
-- **Tydzień 2**: Implementacja testów koszyka (CRUD), testy eksploracyjne, wstępna ocena metryk wydajności.
-
-### Skład zespołu i odpowiedzialności
-
-- **Analityk Testowy (Jan Kowalski)**: Odpowiedzialny za przygotowanie planu testów, wybór technik i metryk oraz analizę wyników.
-- **Tester Automatyczny (Anna Nowak)**: Implementacja testów automatycznych w Playwright, utrzymanie kodu testowego.
-- **Tester Manualny (Piotr Wiśniewski)**: Testy eksploracyjne, ręczna weryfikacja scenariuszy nieobjętych testami automatycznymi.
 
 ---
 
@@ -171,5 +152,9 @@ Raport zostanie otwarty w przeglądarce, umożliwiając wgląd w szczegółowe w
 
 ---
 
-##Autorzy
+## Autorzy
 
+- Mateusz Popielarz 131508
+- Daniel Jasik 131564
+- Dawid Singpiel 130687
+- Kamil Priefer 130665
