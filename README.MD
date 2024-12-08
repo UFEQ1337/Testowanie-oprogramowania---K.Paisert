@@ -16,6 +16,7 @@
 5. [Raport z procesu testowego](#raport-z-procesu-testowego)
 6. [Demonstracja projektu](#demonstracja-projektu)
 7. [Instrukcja uruchomienia testów](#instrukcja-uruchomienia-testów)
+8. [Autorzy](#autorzy)
 
 ---
 
@@ -145,8 +146,7 @@ W ramach demonstracji można:
 1. Sklonuj repozytorium:
 
    ```bash
-   git clone <URL_repozytorium>
-   cd <nazwa_katalogu>
+   git clone https://github.com/UFEQ1337/Testowanie-oprogramowania---K.Paisert.git
    ```
 
 2. Zainstaluj zależności:
@@ -168,3 +168,8 @@ W ramach demonstracji można:
    ```
 
 Raport zostanie otwarty w przeglądarce, umożliwiając wgląd w szczegółowe wyniki testów.
+
+---
+
+##Autorzy
+
